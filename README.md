@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <center><div><img alt="Hi" src="https://i.imgur.com/2TOWjGb.gif"></div></center>
 
-- 🔭 I’m currently working on **Lima as a Database Analyst**
+- 🔭 I’m currently working on **Lima as a Data Analyst**
 
 - 🌱 I’m currently learning **Convolutional Neural Networks**
 
