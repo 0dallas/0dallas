@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Lima as a Machine Learning Engineer**
 
-- 🌱 I’m currently learning **CI/CD**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://0dallas.github.io/](https://0dallas.github.io/)
 
