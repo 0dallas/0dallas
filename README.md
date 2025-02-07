@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://0dallas.github.io/](https://0dallas.github.io/)
-
 - 📫 How to reach me **wrfigueroam@gmail.com**
+    
+- 👨‍💻 Some of my projects are available at [https://0dallas.github.io/](https://0dallas.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
